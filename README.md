@@ -2,8 +2,8 @@
 
 ## Toolkits
 
-- [Spotify Ethics Guild's ethics assessment](https://spotify.design/article/investigating-consequences-with-our-ethics-assessment) - a tool for identifying ethical considerations when designing a product or service.
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
+- [Spotify Ethics Guild's ethics assessment](https://spotify.design/article/investigating-consequences-with-our-ethics-assessment) - a tool for identifying ethical considerations when designing a product or service.
 
 ## Media
 
