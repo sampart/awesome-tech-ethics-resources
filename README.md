@@ -18,6 +18,8 @@
 
 - [The Algorithmic Justice League](https://www.ajl.org) - an organization that raises awareness about the impacts of AI, equips advocates with empirical research, builds the voice and choice of the most impacted communities, and galvanizes researchers, policy makers, and industry practitioners to mitigate AI harms and biases.
 - [The Ada Lovelace Institute](https://www.adalovelaceinstitute.org) - An independent research institute with a mission to ensure data and AI work for people and society.
+- [Omidyar Network: Responsible Technology](http://omidyar.com/responsible-technology-2/) - social change venture that reimagines critical systems, and the ideas that govern them, to build more inclusive and equitable societies. Responsible technology is one of its three key focus areas.
+- [Organization for Ethical Source](https://ethicalsource.dev) - develops tools and standards to promote fair, ethical, and equitable outcomes for everyone who contributes to, benefits from, or is impacted by open source technologies.
 
 ## Company-specific
 
