@@ -10,10 +10,10 @@ In the context of this list, "tech ethics" means "mitigating and avoiding the po
 
 There are lots of excellent areas that are related to tech ethics but are deliberately not covered here. This exclusion is because these areas are big enough to warrant their own individual lists, or because their focus is different to the one defined above (or both), not because I don't think they're awesome topics!
 
-Where I know of an Awesome List for that area, I've included it in the "See also" section.
+Where I know of an Awesome List or similar for that area, I've included it in the "See also" section.
 
 - Environmental sustainability
 - Tech accessibility
 - Diversity in tech
-- Unionization and Organization in tech (I've not found an Awesome List for this yet, but see the "Tech" section at [organize.fyi](https://organize.fyi) for some US links).
+- Unionization and Organization in tech
 - Tech for Good
