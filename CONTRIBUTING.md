@@ -2,9 +2,9 @@
 
 Thanks for your interest in contributing! If you've got a resource you'd like to include, read on to see what this list is and isn't about.
 
-## What's meant by "tech ethics"?
+## What's meant by "tech ethics resources"?
 
-In the context of this list, "tech ethics" means "mitigating and avoiding the potential negative effects of technology on society".
+In the context of this list, "tech ethics" means "mitigating and avoiding the potential negative effects of technology on society". By "resources", I mean that the focus of the list is primarily on things that can help those involved in technological development achieve this mitigation/avoidance, as opposed to items that are solely about critique.
 
 ## What's not included here?
 
