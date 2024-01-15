@@ -4,6 +4,7 @@
 
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
 - [Spotify Ethics Guild's ethics assessment](https://spotify.design/article/investigating-consequences-with-our-ethics-assessment) - a tool for identifying ethical considerations when designing a product or service.
+- [The Tarot Cards of Tech](https://tarotcardsoftech.artefactgroup.com/) - a set of questions designed to help creators more fully consider the impact of technology.
 
 ## Media
 
@@ -34,4 +35,5 @@
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity)
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
 - [Awesome tech for good](https://github.com/TechforgoodCAST/awesome-techforgood)
+- The ["Digital Rights & Ethics" section of the Green Web Syllabus](https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection)
 - [Organize.fyi](https://organize.fyi/)
