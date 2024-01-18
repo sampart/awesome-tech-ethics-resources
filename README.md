@@ -4,6 +4,7 @@
 
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
 - [Spotify Ethics Guild's ethics assessment](https://spotify.design/article/investigating-consequences-with-our-ethics-assessment) - a tool for identifying ethical considerations when designing a product or service.
+- [Sweet summer child score](https://github.com/summerscope/summerchildpy) - an interactive quiz to identify the possibility of harm to people and communities by a socio-technical system.
 - [The Tarot Cards of Tech](https://tarotcardsoftech.artefactgroup.com/) - a set of questions designed to help creators more fully consider the impact of technology.
 
 ## Media
