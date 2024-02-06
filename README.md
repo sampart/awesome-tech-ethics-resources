@@ -22,6 +22,7 @@
 - [The Algorithmic Justice League](https://www.ajl.org) - an organization that raises awareness about the impacts of AI, equips advocates with empirical research, builds the voice and choice of the most impacted communities, and galvanizes researchers, policy makers, and industry practitioners to mitigate AI harms and biases.
 - [All Tech Is Human](https://alltechishuman.org/) - bringing together people, organizations, and ideas to tackle wicked tech & society issues and co-create a tech future aligned with the public interest.
 - [The Design Justice Network](https://designjustice.org/) - A home for people who are committed to embodying and practicing the [Design Justice Network Principles](https://designjustice.org/principles).
+- [The Distributed AI Research Institute](https://www.dair-institute.org/) - The Distributed AI Research Institute is a space for independent, community-rooted AI research, free from Big Tech’s pervasive influence.
 - [Omidyar Network: Responsible Technology](http://omidyar.com/responsible-technology-2/) - social change venture that reimagines critical systems, and the ideas that govern them, to build more inclusive and equitable societies. Responsible technology is one of its three key focus areas.
 - [Organization for Ethical Source](https://ethicalsource.dev) - develops tools and standards to promote fair, ethical, and equitable outcomes for everyone who contributes to, benefits from, or is impacted by open source technologies.
 
