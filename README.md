@@ -3,8 +3,10 @@
 ## Toolkits
 
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
+- [The ResponsibleTech.Work framework](https://responsibletech.work) - an open-source framework developed by tech workers for tech workers. It equips tech workers with practical tools for more responsible product development.
 - [Spotify Ethics Guild's ethics assessment](https://spotify.design/article/investigating-consequences-with-our-ethics-assessment) - a tool for identifying ethical considerations when designing a product or service.
 - [Sweet summer child score](https://github.com/summerscope/summerchildpy) - an interactive quiz to identify the possibility of harm to people and communities by a socio-technical system.
+- [Tethix Elemental Sparks](https://tethix.co/paper-sparks/) - printouts for origami [chatterboxes](https://en.wikipedia.org/wiki/Paper_fortune_teller) to spark conversations about AI, data, fairness, and other sociotechnical challenges.
 - [The Tarot Cards of Tech](https://tarotcardsoftech.artefactgroup.com/) - a set of questions designed to help creators more fully consider the impact of technology.
 
 ## Media
@@ -26,6 +28,7 @@
 - [The Distributed AI Research Institute](https://www.dair-institute.org/) - The Distributed AI Research Institute is a space for independent, community-rooted AI research, free from Big Tech’s pervasive influence.
 - [Omidyar Network: Responsible Technology](http://omidyar.com/responsible-technology-2/) - social change venture that reimagines critical systems, and the ideas that govern them, to build more inclusive and equitable societies. Responsible technology is one of its three key focus areas.
 - [Organization for Ethical Source](https://ethicalsource.dev) - develops tools and standards to promote fair, ethical, and equitable outcomes for everyone who contributes to, benefits from, or is impacted by open source technologies.
+- [Tethix](https://tethix.co) - "Tech ethics that makes you smile".
 
 ## Company-specific
 
