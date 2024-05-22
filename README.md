@@ -3,6 +3,7 @@
 ## Toolkits
 
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
+- [Manifesto for a Humane Web](https://humanewebmanifesto.com/) - "a personal response to the current state of the web [...] a statement of intent and a call to arms, inviting you, the reader, to go forth and build humane websites, and to resist the erosion of the web we know and love."
 - [The ResponsibleTech.Work framework](https://responsibletech.work) - an open-source framework developed by tech workers for tech workers. It equips tech workers with practical tools for more responsible product development.
 - [Spotify Ethics Guild's ethics assessment](https://spotify.design/article/investigating-consequences-with-our-ethics-assessment) - a tool for identifying ethical considerations when designing a product or service.
 - [Sweet summer child score](https://github.com/summerscope/summerchildpy) - an interactive quiz to identify the possibility of harm to people and communities by a socio-technical system.
