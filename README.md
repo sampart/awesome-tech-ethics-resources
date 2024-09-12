@@ -23,6 +23,7 @@
 
 ## Organisations
 
+- [ACM SIGCAS](https://www.sigcas.org) - the Association for Computing Machinery (ACM) Special Interest Group that addresses the social and ethical consequences of widespread computer usage.
 - [The Ada Lovelace Institute](https://www.adalovelaceinstitute.org) - An independent research institute with a mission to ensure data and AI work for people and society.
 - [The Algorithmic Justice League](https://www.ajl.org) - an organization that raises awareness about the impacts of AI, equips advocates with empirical research, builds the voice and choice of the most impacted communities, and galvanizes researchers, policy makers, and industry practitioners to mitigate AI harms and biases.
 - [All Tech Is Human](https://alltechishuman.org/) - bringing together people, organizations, and ideas to tackle wicked tech & society issues and co-create a tech future aligned with the public interest.
