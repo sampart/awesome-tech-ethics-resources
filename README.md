@@ -31,6 +31,7 @@
 - [The Design Justice Network](https://designjustice.org/) - A home for people who are committed to embodying and practicing the [Design Justice Network Principles](https://designjustice.org/principles).
 - [The Distributed AI Research Institute](https://www.dair-institute.org/) - The Distributed AI Research Institute is a space for independent, community-rooted AI research, free from Big Tech’s pervasive influence.
 - [Foxglove](https://www.foxglove.org.uk) - We stand up to tech giants and governments and for a future where technology is used to benefit everyone, not just the rich and powerful.
+- [The Minderoo Centre for Technology and Democracy](https://www.mctd.ac.uk) - an independent team of researchers at the University of Cambridge who are radically rethinking the power relationships between digital technologies, society, and our planet.
 - [Omidyar Network: Responsible Technology](http://omidyar.com/responsible-technology-2/) - social change venture that reimagines critical systems, and the ideas that govern them, to build more inclusive and equitable societies. Responsible technology is one of its three key focus areas.
 - [Organization for Ethical Source](https://ethicalsource.dev) - develops tools and standards to promote fair, ethical, and equitable outcomes for everyone who contributes to, benefits from, or is impacted by open source technologies.
 - [Tethix](https://tethix.co) - "Tech ethics that makes you smile".
