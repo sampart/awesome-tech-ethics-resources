@@ -48,6 +48,7 @@
 - [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y)
 - [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity)
 - [Awesome Green Software](https://github.com/Green-Software-Foundation/awesome-green-software)
+- [Awesome Permacomputing](https://github.com/idematos/awesome-permacomputing)
 - [Awesome tech for good](https://github.com/TechforgoodCAST/awesome-techforgood)
 - The ["Digital Rights & Ethics" section of the Green Web Syllabus](https://www.zotero.org/groups/4399301/green-web-syllabus/collections/TFLY9RC3/items/YXMPV7WI/collection)
 - [Organize.fyi](https://organize.fyi/)
