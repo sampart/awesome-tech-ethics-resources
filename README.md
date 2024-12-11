@@ -1,5 +1,14 @@
 # Awesome Tech Ethics Resources
 
+## Table of Contents
+
+- [Toolkits](#toolkits)
+- [Media](#media)
+- [Education](#education)
+- [Organisations](#organisations)
+- [Company-specific](#company-specific)
+- [See also](#see-also)
+
 ## Toolkits
 
 - [Consequence Scanning](https://www.tech-transformed.com/product-development/) - a new agile event that fits into an iterative development cadence. A way to think about the potential impact of a product or service on people and society early on in the development cycle.
