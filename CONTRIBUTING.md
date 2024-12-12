@@ -17,3 +17,7 @@ Where I know of an Awesome List or similar for that area, I've included it in th
 - Diversity in tech
 - Unionization and Organization in tech
 - Tech for Good
+
+## Code of Conduct
+
+All contributors to this project must follow our [Code of Conduct](./CODE_OF_CONDUCT.md).
