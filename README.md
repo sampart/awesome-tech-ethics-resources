@@ -1,6 +1,6 @@
 # Awesome Tech Ethics Resources
 
-## Table of Contents
+## Contents
 
 - [Toolkits](#toolkits)
 - [Media](#media)
