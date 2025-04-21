@@ -13,6 +13,7 @@
 
 - [Consequence Scanning](https://www.tech-transformed.com/product-development/) - A new agile event that fits into an iterative development cadence. A way to think about the potential impact of a product or service on people and society early on in the development cycle.
 - [IDEO's AI ethics cards](https://page.ideo.com/download-ai-ethics-cards) - Activities to "help guide an ethically responsible, culturally considerate, and humanistic approach to designing with data."
+- [Permacomputing design principles](https://permacomputing.net/Principles/) - Permacomputing is both a concept and a community of practice oriented around issues of resilience and regenerativity in computer and network technology inspired by permaculture.
 <!--lint disable no-repeat-punctuation-->
 - [Manifesto for a Humane Web](https://humanewebmanifesto.com/) - "A personal response to the current state of the web \[...\] a statement of intent and a call to arms, inviting you, the reader, to go forth and build humane websites, and to resist the erosion of the web we know and love."
 <!--lint enable no-repeat-punctuation-->
