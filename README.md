@@ -1,6 +1,6 @@
 # Awesome Tech Ethics Resources [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Resources for mitigating and avoiding the potential negative effects of technology on society.
+Mitigating and avoiding the potential negative effects of technology on society.
 
 ## Contents
 
