@@ -27,7 +27,7 @@ Mitigating and avoiding the potential negative effects of technology on society.
 
 ## Media
 
-- [Tech Won't Save Us podcast](https://www.techwontsave.us) - Tech Won't Save Us challenges the notion that tech alone can drive our world forward by showing that tech is inherently political and ignoring that has serious consequences. It encourages listeners to think beyond the confines of the capitalist tech industry, to consider how we can dismantle oppressive technologies, and how technology can be developed for the public good.
+- [Tech Won't Save Us podcast](https://www.techwontsave.us) - Tech Won't Save Us challenges the notion that tech alone can drive our world forward by showing that tech is inherently political and ignoring that has serious consequences. It encourages listeners to think about how we can move beyond oppressive tech and towards tech for genuine public good.
 - [Ethics and Data Science report](https://www.oreilly.com/library/view/ethics-and-data/9781492043898/), Mike Loukides, Hilary Mason, and DJ Patil - Practical ways for making ethical data standards part of your work every day. Available to [read online for free](https://resources.oreilly.com/examples/0636920203964/).
 - [Machine Ethics Podcast](https://www.machine-ethics.net) - Conversations on AI Ethics: Interrogating technology, artificial intelligence and society.
 
@@ -39,7 +39,7 @@ Mitigating and avoiding the potential negative effects of technology on society.
 
 - [ACM SIGCAS](https://www.sigcas.org) - The Association for Computing Machinery (ACM) Special Interest Group that addresses the social and ethical consequences of widespread computer usage.
 - [The Ada Lovelace Institute](https://www.adalovelaceinstitute.org) - An independent research institute with a mission to ensure data and AI work for people and society.
-- [The Algorithmic Justice League](https://www.ajl.org) - An organization that raises awareness about the impacts of AI, equips advocates with empirical research, builds the voice and choice of the most impacted communities, and galvanizes researchers, policy makers, and industry practitioners to mitigate AI harms and biases.
+- [The Algorithmic Justice League](https://www.ajl.org) - AJL raises awareness about the impacts of AI, undertakes empirical research, strengthens the most impacted communities, and galvanizes researchers, policy makers, and industry practitioners to mitigate AI harms and biases.
 - [All Tech Is Human](https://alltechishuman.org/) - Bringing together people, organizations, and ideas to tackle wicked tech & society issues and co-create a tech future aligned with the public interest.
 - [Center for Humane Technology](https://www.humanetech.com/) - Envisioning a world with technology that respects our attention, improves our well-being, and strengthens communities.
 - [The Design Justice Network](https://designjustice.org/) - A home for people who are committed to embodying and practicing the [Design Justice Network Principles](https://designjustice.org/principles).
