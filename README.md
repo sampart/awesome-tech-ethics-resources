@@ -1,6 +1,6 @@
 # Awesome Tech Ethics [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Mitigating and avoiding the potential negative effects of technology on society.
+Reducing the potential negative effects of technology on society.
 
 ## Contents
 
